@@ -1,35 +1,32 @@
-# ARWCoin. Ultimate For Building In DEFI Technologies
-<div align="center"><img src="https://arawancoin.com/wp-content/uploads/2024/06/GHOI.jpg" /><br />
+# JKP Ecosystem For Marketplace Platform
+<div align="center"><img src="https://jkpcoin.com/wp-content/uploads/2024/08/welcome.jpg" /><br />
 </div>
 <div align="center">
   <h1><br />
-    <a href="https://arawancoin.com/" target="_blank">Go to Website<br />
+    <a href="https://jkpcoin.com/" target="_blank">Go to Website<br />
     </a></h1>
 </div>
-Delivers high performance, infrastructure for users in Web3 ecosystems.We committed to create a modern platform. DeFi staking platform that maximizes capital efficiency on your assets. Decentralized exchange system is modern secure low fees. Marketplace use PSTCoin as a payment
+Revolutionary JKP coins used as a decentralized exchange (DEX), marketplace platform & payment gateway in JKP group, Including web 3 technology projects that will be launched in the future.
 
 # Multivendor Marketplace
-ARWCoin marketplace is a store that collects more than 1,000 products. Use PSTCoin as an intermediary for payment 100%. Fast delivery. with real-time product tracking system
-
-# Staking platform
-ARW Web3 Staking, new technology. You rewards are generated daily until the date lock stake Now it’s time to enjoy your life and finally let your money work for you every day.
+Vendor marketplace system includes more than 24 product categories with management system that facilitates buyers and sellers. Use JKPCoins as an intermediary for payment 100%
 
 # Payment gateway
-Use ARWCoin on marketplace platform. Easy to use procedure Press to pay for products, connect to wallet, press to confirm, check transactions via blockchain, convenient and safe.
+Use JKPCoins as a payment gateway for paying for products and services on vendor marketplate platform. Convenient, safe, transparent, low fees, check transactions anytime.
 
 # Decentralized Exchange
-ARWCoin lets users swap BEP-20 coins without the need to go through a Centralized Exchange. All transactions are routed directly through your own wallet, which is fully under your control.
+Swap crypto through a convenient, secure platform, supporting Binance chain. Owner project can manage Pools yourself easily, such as adding pools, moving pools, deleting pools, import pools.
 
 JOIN US
 
-⭕ Website: https://arawancoin.com
+⭕ Website: https://jkpcoin.com
 
-📄 Whitepaper : https://whitepaper.arawancoin.com
+📄 Whitepaper : https://docs.jkpcoin.com
 
-👨🏿‍🤝‍👨🏿Twitter : https://x.com/ARW_Coin
+👨🏿‍🤝‍👨🏿Twitter : https://x.com/JKPCOIN
 
-👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/aerawan789
+👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/jkpcoin99
 
-👨🏿‍🤝‍👨🏿Facebook : https://www.facebook.com/ARWCoin
+👨🏿‍🤝‍👨🏿Facebook : https://www.facebook.com/jkpcoin99/
 
-🔒 Smart Contract : https://bscscan.com/token/0xC9A1dd1Fc6B6a2Be38Bc05BEa9Be0d401AD095a7
+🔒 Smart Contract : https://bscscan.com/token/0x93bA17729cCd7235162c78160bd851B082353119
